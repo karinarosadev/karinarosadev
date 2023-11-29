@@ -2,7 +2,7 @@
 
 <p align="center" width="300">
    <img align="center" width="200"  />
-   <h3 align="center">¡Hey 👋! Soy Karina Rosa</h1></h3>
+   <h1 align="center">¡Hey 👋! Soy Karina Rosa</h1>
 </p>
  
 <h2 align="center">Desarrolladora Front-end</h2>
