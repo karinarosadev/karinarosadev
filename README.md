@@ -9,13 +9,15 @@
 <br>
 <br>
 
-***Actualmente, me encuentro ampliando mis conocimientos en el universo del desarrollo Full Stack en Coderhouse mientras voy construyendo una base sólida acumulando experiencia profesional como Front-End. Con experiencia previa en recursos gráficos y tecnológicos. Con alta capacidad de comunicación y negociación. Con ganas de enfrentar nuevos desafíos y seguir creciendo en este mundo de la programación, aprendiendo más cada día!*** 
+***Actualmente, me encuentro ampliando mis conocimientos en el universo del desarrollo Full Stack en Coderhouse, mientras voy construyendo una base sólida y acumulando experiencia profesional como Front-End. Poseo experiencia previa en recursos gráficos y tecnológicos. Con alta capacidad de comunicación y negociación. Con ganas de enfrentar nuevos desafíos y seguir creciendo en este mundo de la programación, aprendiendo más cada día!*** 
 
 <h3 align="left">Visión y Metas:</h3>
 
 Mi objetivo es contribuir significativamente al mundo digital, aportando soluciones innovadoras y participando en proyectos que desafíen mis límites. Estoy comprometida a convertirme en una profesional integral y estoy abierta a oportunidades que me permitan aplicar y expandir mis habilidades.
 
 <h3 align="left">Habilidades Técnicas:</h3>
+
+<br>
 
 <div style="display: flex;">
      <img src="https://github.com/karinarosadev/karinarosadev/blob/main/assets/imagenes/html-1.svg" alt="html" width="40" height="40" />
@@ -30,10 +32,10 @@ Mi objetivo es contribuir significativamente al mundo digital, aportando solucio
     <img src="https://github.com/karinarosadev/karinarosadev/blob/main/assets/imagenes/vitejs.svg" alt="vitejs" width="40" height="40" />
 </div>
 
-<h3 align="center">¡Gracias por visitar mi perfil! 🌈✨</h3>
 <br>
-Estoy abierta a oportunidades y conexiones de colaboración. ¡Contáctame para discutir proyectos o compartir conocimientos!
-
+<br>
+<h3 align="center">¡Gracias por visitar mi perfil! 🌈✨</h3>
+<h4 align="center">Estoy abierta a oportunidades y conexiones de colaboración. ¡Contáctame para discutir proyectos o compartir conocimientos! </h4>
 
 
 
