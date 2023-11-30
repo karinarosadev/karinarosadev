@@ -31,7 +31,8 @@ Mi objetivo es contribuir significativamente al mundo digital, aportando solucio
 </div>
 
 <h3 align="center">¡Gracias por visitar mi perfil! 🌈✨</h3>
-Abierta a conexiones y oportunidades de colaboración. ¡Contáctame para discutir proyectos o compartir conocimientos!
+<br>
+Estoy abierta a oportunidades y conexiones de colaboración. ¡Contáctame para discutir proyectos o compartir conocimientos!
 
 
 
