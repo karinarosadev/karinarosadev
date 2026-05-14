@@ -1,6 +1,6 @@
 
   # ¡Hola 👋! Soy Karina Rosa  
-  ### Desarrolladora UX/UI Developer
+  ### Full Stack MERN Developer 
 
 </br>
 <p align="left">
