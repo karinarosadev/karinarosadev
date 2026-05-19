@@ -29,7 +29,7 @@ Mi objetivo es consolidar mi perfil como UX/UI Developer, avanzando hacia proyec
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,react,vite,git,github,nodejs,express,mongodb,n8n" />
+    <img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,react,vite,git,github,nodejs,express,mongodb,notion" />
   </a>
 </p>
 
